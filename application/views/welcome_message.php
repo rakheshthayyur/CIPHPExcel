@@ -71,6 +71,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<h1>PHP Excel</h1>
 	<div id="body">
 		<code><a href="index.php/welcome/excel">Create Excel</a></code>
+		<code><a href="index.php/welcome/mynakam">Salary Statement</a></code>
 	</div>
 </div>
 
